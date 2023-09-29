@@ -1,6 +1,6 @@
 [submodule "spotless"]
 	path = spotless
-	url = git@github.com:spot-toolbox/spotless.git
+	url = https://github.com/spot-toolbox/spotless
 [submodule "p3p_problem"]
 	path = p3p_problem
-	url = git@github.com:g9nkn/p3p_problem.git
+	url = https://github.com/g9nkn/p3p_problem.git
