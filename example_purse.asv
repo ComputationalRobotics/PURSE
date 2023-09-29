@@ -1,16 +1,16 @@
 clc
 clear all
 close all
+% restoredefaultpath
 addpath('lib')
 addpath(genpath('p3p_problem'))
 addpath(genpath('spotless'))
-
+addpath)
 
 % Add mosekpath according to its installation path
 % restoredefaultpath
 % mosekpath = "../mosek";
 % addpath(genpath(mosekpath))
-% addpath("C:\Program Files\Mosek\10.0\toolbox\r2017a")
 
 rng(0)
 
